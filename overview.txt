@@ -1,0 +1,3 @@
+this git is specfically for data analysis 
+the packages include: pandas, numpy, and matplotlib
+this will be conducted on python
